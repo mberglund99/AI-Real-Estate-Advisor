@@ -1,7 +1,4 @@
-# AI-Real-Estate-Advisor
-AI-powered real estate analysis and listing intelligence prototype.
-
-AI Real Estate Advisor
+# AI Real Estate Advisor
 An experiment exploring how AI can assist buyers, sellers, and real estate professionals by transforming property data into actionable insights.
 
 Goals
