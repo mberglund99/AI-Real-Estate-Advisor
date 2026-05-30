@@ -12,6 +12,12 @@ This repo includes a **Next.js web app** that turns property details into AI-gen
 - **Buyer personas** — Three distinct target buyer profiles
 - **Investment insights** — ROI considerations, market outlook, and risks
 
+  ## Screenshots
+
+![Home Page](home-page.png)
+
+![Property Analysis](property-analysis.png)
+
 ## Quick start
 
 ```bash
